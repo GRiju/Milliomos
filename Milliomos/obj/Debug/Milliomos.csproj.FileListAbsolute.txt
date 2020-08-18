@@ -1,0 +1,7 @@
+C:\Users\oszva\Dropbox\programok\C# Itthoni programok\Legyen on is milliomos\Milliomos\Milliomos\bin\Debug\Milliomos.exe.config
+C:\Users\oszva\Dropbox\programok\C# Itthoni programok\Legyen on is milliomos\Milliomos\Milliomos\bin\Debug\Milliomos.exe
+C:\Users\oszva\Dropbox\programok\C# Itthoni programok\Legyen on is milliomos\Milliomos\Milliomos\bin\Debug\Milliomos.pdb
+C:\Users\oszva\Dropbox\programok\C# Itthoni programok\Legyen on is milliomos\Milliomos\Milliomos\obj\Debug\Milliomos.csprojAssemblyReference.cache
+C:\Users\oszva\Dropbox\programok\C# Itthoni programok\Legyen on is milliomos\Milliomos\Milliomos\obj\Debug\Milliomos.csproj.CoreCompileInputs.cache
+C:\Users\oszva\Dropbox\programok\C# Itthoni programok\Legyen on is milliomos\Milliomos\Milliomos\obj\Debug\Milliomos.exe
+C:\Users\oszva\Dropbox\programok\C# Itthoni programok\Legyen on is milliomos\Milliomos\Milliomos\obj\Debug\Milliomos.pdb
